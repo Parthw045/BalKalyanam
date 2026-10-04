@@ -1,0 +1,2 @@
+# BalKalyanam
+BALKALYANAM – Caring for Every Child, Every Day is a web-based donation and community-support platform designed to connect orphanages with donors and volunteers. The project aims to make donations more accessible, transparent, and organized by allowing people to contribute essential resources such as food, clothes, stationery, books, medicines, groceries, toys, and financial support. The platform is developed as a Community Engagement Project with a focus on supporting Sadashanti Orphanage and improving awareness about the needs of orphaned children.
